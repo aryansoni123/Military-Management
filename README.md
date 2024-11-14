@@ -8,6 +8,7 @@ Official Repository of Military Management using Python
 3. MySQL Connector: For exporting and importing Data to MySQL Database.
 
 ## Process
+1. Clone this Repositort.
 1. Install the libraries required to run.
 2. Setup MySQL Database, Change the Credentials in the Code as per your Database.
 3. Execute the code.
